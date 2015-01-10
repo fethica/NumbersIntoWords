@@ -1,3 +1,21 @@
+/**
+ * NIW.java
+ *
+ * Numbers Into Words (NIW) : a function to display the result of your calculations, 
+ * amount of a check, phone number or any other number in words (english).
+ *
+ *
+ * Fethi El Hassasna © 2015 (@fethica)
+ *
+ * Released under the MIT License.
+ *
+ * ------------------------------------------------
+ *  author:  Fethi El Hassasna
+ *  version: 1.2
+ *  url:     http://fethica.com/project.php?pid=13
+ *  source:  https://github.com/fethica/NumbersIntoWords
+ */
+
 package com.fethica;
 
 public class NIW {
