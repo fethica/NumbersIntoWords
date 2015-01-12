@@ -2,7 +2,7 @@
 
 Numbers Into Words (NIW) : a function to display the result of your calculations, amount of a check, phone number or any other number in words (english). http://fethica.com/project.php?pid=13
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/fethica/NumbersIntoWords/master/niw-logo.png" alt="Numbers Into Words logo" width="200px" /></div>
+<img src="https://raw.githubusercontent.com/fethica/NumbersIntoWords/master/niw-logo.png" alt="Numbers Into Words logo" width="200px" />
 
 =========
 ### Java example :
