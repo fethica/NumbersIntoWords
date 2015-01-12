@@ -2,6 +2,8 @@
 
 Numbers Into Words (NIW) : a function to display the result of your calculations, amount of a check, phone number or any other number in words (english). http://fethica.com/project.php?pid=13
 
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/fethica/NumbersIntoWords/master/niw-logo.png" alt="Numbers Into Words logo" width="200px" /></div>
+
 =========
 ### Java example :
 
@@ -15,7 +17,7 @@ Numbers Into Words (NIW) : a function to display the result of your calculations
 ```
 =========
 
-### My App NIW (Android / iOS) :
+### NIW App (Android / iOS) :
 
 - [Play Store](https://play.google.com/store/apps/details?id=com.fethica.numbersintowords).
 - [Opera Store](http://apps.opera.com/badge.php?a=c&v=dark&did=100533&pid=445683).
