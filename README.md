@@ -22,6 +22,7 @@ Numbers Into Words (NIW) : a function to display the result of your calculations
 - [Play Store](https://play.google.com/store/apps/details?id=com.fethica.numbersintowords).
 - [Opera Store](http://apps.opera.com/badge.php?a=c&v=dark&did=100533&pid=445683).
 - [Apple Store](https://itunes.apple.com/us/app/niw-numbers-into-words/id923751815?ls=1&mt=8).
+- [Amazon Store](http://www.amazon.com/Fethi-El-Hassasna-NIW-Numbers/dp/B01789WF30).
 
 ### License 
 
