@@ -1,6 +1,6 @@
 # Numbers Into Words (NIW)
 
-Numbers Into Words (NIW) : a function to display the result of your calculations, amount of a check, phone number or any other number in words (english). http://fethica.com/project.php?pid=13
+Numbers Into Words (NIW) : a function to display the result of your calculations, amount of a check, phone number or any other number in words (english). http://v3.fethica.com/project.php?pid=13
 
 <img src="https://raw.githubusercontent.com/fethica/NumbersIntoWords/master/niw-logo.png" alt="Numbers Into Words logo" width="200px" />
 
